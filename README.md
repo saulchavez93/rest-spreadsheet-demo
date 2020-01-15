@@ -11,3 +11,8 @@ mvn spring-boot:run
 curl -F file=@path/to/testfile http://localhost:8080/spreadsheet
 
 (change path/to/testfile with a path to the file you want to upload)
+
+
+## More info
+
+https://stackabuse.com/uploading-files-with-spring-boot/
